@@ -1,0 +1,33 @@
+# Site settings
+title: "Seginus development blog"
+description: "Seginus development blog"
+url: "https://seginushq.github.io/"
+author:
+  name: "TADOKORO Saneyuki"
+  email: "saneyan@seginus.jp"
+
+# Build settings
+baseurl: /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
