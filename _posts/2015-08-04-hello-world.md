@@ -1,1 +1,0 @@
-## Hello, world.We publish our technical information, such as about a new feature of our product, development tips, bugfixes and so on.
