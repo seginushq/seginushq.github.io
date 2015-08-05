@@ -14,6 +14,5 @@ The technical blog mainly accumulates these tips. But another information will b
 
 Nice to meet you and thanks for reading :)
 
-![saneyan](https://s.gravatar.com/avatar/e755ef64d7d379ed71d2373de2b6009f?s=80)  
 Chief Engineer  
 TADOKORO Saneyuki
