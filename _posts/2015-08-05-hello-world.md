@@ -1,6 +1,10 @@
 Good morning, everybody.
 
+We are Seginus team with 5 members. They are students at the University of Tsukuba.
+
 We started to publish our technical information, such as about a new feature of our product, development tips and bugfixes on this technical blog.
+
+### About our product
 
 Let us talk about our main product. The service name is "Linkage", that will support lots of service integrations and manage one or more projects to help your project management in many situations.
 
@@ -10,5 +14,6 @@ The technical blog mainly accumulates these tips. But another information will b
 
 Nice to meet you and thanks for reading :)
 
+![saneyan](https://s.gravatar.com/avatar/e755ef64d7d379ed71d2373de2b6009f?s=80)  
 Chief Engineer  
 TADOKORO Saneyuki
